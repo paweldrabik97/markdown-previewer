@@ -1,0 +1,58 @@
+body {
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  color: black;
+  background-color: #999;
+}
+
+a {
+  color: purple;
+}
+
+#app {
+  align-items: center;
+  justify-content: center;
+}
+
+#editor {
+  display: inline-block;
+}
+
+.editorClass {
+  background-color: #777;
+  padding: 30px;
+  margin-bottom: 4px;
+  border-radius: 15px;
+}
+
+.previewClass {
+  background-color: #777;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+#preview {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+textarea {
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  height: 200px;
+  min-height: 200px;
+  max-height: 400px;
+  margin-bottom: 10px;
+}
+
+.appHeader {
+  color: white;
+}
