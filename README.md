@@ -51,4 +51,4 @@ Paweł Drabik ([https://github.com/paweldrabik97](https://github.com/paweldrabik
 
 ## Demo
 
-You can see a live version of the project on CodePen: [https://codepen.io/pawe-drabik/pen/mdgLjvv](https://codepen.io/pawe-drabik/pen/mdgLjvv)
+You can see a live version of the project on CodePen: [https://codepen.io/pawe-drabik/full/mdgLjvv](https://codepen.io/pawe-drabik/full/mdgLjvv)
